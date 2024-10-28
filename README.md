@@ -1,4 +1,4 @@
-# Hi there, I’m Deeya Tiwari! 👋 
+# Hey there, I’m Deeya Tiwari! 👋 
 
 I'm a **Computer Science student** driven by a love for building innovative, user-focused software. I’m always eager to explore new tech and dive into projects that combine functionality with creativity.
 
