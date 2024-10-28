@@ -30,7 +30,7 @@ Beyond coding, I'm also a trained Kathak dancer and a team lead in several unive
 
 ### ⚙️ Technical Skills
 - **Languages**: Python, C/C++, Dart
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS
 - **Frameworks**: Flutter
 - **Database**: MySQL
 - **Advanced Knowledge Areas**: Artificial Intelligence, Machine Learning, Generative AI
